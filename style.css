@@ -1,0 +1,53 @@
+.container{
+  
+    text-align: center;
+    margin-top: 200px;
+   
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 20px;
+    background-color: paleturquoise;
+    cursor:pointer;
+    border: 10px solid rgb(37, 165, 224);
+    box-shadow: 10px 10px 5px;
+    font-size: 15px;
+   
+  
+}
+h1{
+    color:darkblue;
+    text-shadow: 2px 2px white;
+
+}
+#button{
+    background-color: cyan;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    padding-left:15px ;
+    padding-right: 15px;
+    
+  }
+
+
+#button:hover{
+    background-color: cadetblue;
+    font-weight: bold;
+}
+#input{
+    padding: 10px;
+    
+}
+#press{
+   font-weight: bold;
+   font-size: 30px;
+}
+#guessing{
+    font-weight: bold;
+    font-size: 20px;
+}
+body{
+  background-color: deepskyblue;
+ 
+}
